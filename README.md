@@ -145,18 +145,6 @@ http://127.0.0.1:5000/
 
 ---
 
-## 📷 Screenshots
-
-Add screenshots of:
-
-- Home Page
-- Login Page
-- Image Upload Page
-- Disease Prediction Result
-- Admin Dashboard (if applicable)
-
----
-
 ## 🎯 Future Enhancements
 
 - Support more plant species and diseases.
@@ -171,8 +159,6 @@ Add screenshots of:
 ## 👩‍💻 Author
 
 **Akshitha Gannoju**
-
-Final Year B.Tech (Information Technology)
 
 ---
 
